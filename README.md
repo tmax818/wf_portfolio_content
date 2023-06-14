@@ -10,3 +10,5 @@
 >  - [ ] textarea, 
 >  - [ ] input type="text", 
 >  - [ ] input type="submit"
+
+![](resources/portfolio_content.png)
